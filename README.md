@@ -1,5 +1,6 @@
 
 # ESP32-C3-Mini
+![c3_mini_v2 1 0_1_16x161](https://github.com/MwalaTimothy/ESP32-C3-Mini/assets/74060530/eb2981d9-305c-4f3a-93fb-4efa979479ab)
 ## Getting
 To get started with the ESP32-C3 Mini Version 2 using the Arduino IDE, you'll need to follow these steps:
 
